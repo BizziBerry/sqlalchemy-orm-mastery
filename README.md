@@ -3,16 +3,14 @@
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
-https://img.shields.io/badge/SQLAlchemy-2.0+-red.svg  
-https://img.shields.io/badge/SQLite-3.0+-green.svg
-https://img.shields.io/badge/Alembic-Migrations-orange.svg
-https://img.shields.io/badge/Status-Completed-success.svg
-https://img.shields.io/badge/License-MIT-blue.svg
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-2.0+-red.svg)  
+![SQLite](https://img.shields.io/badge/SQLite-3.0+-green.svg)
+![Alembic](https://img.shields.io/badge/Alembic-Migrations-orange.svg)
 
-https://img.shields.io/badge/ORM-Patterns-ff6b35.svg
-https://img.shields.io/badge/Database-Design-6495ed.svg
-https://img.shields.io/badge/Transactions-Safe-32cd32.svg
-https://img.shields.io/badge/Performance-Optimized-ffd700.svg
+![ORM](https://img.shields.io/badge/ORM-Patterns-ff6b35.svg)
+![Database](https://img.shields.io/badge/Database-Design-6495ed.svg)
+![Migrations](https://img.shields.io/badge/Transactions-Safe-32cd32.svg)
+![Performance](https://img.shields.io/badge/Performance-Optimized-ffd700.svg)
 
  **Руководство по SQLAlchemy ORM с оптимизацией производительности, паттернами и миграциями**
 
