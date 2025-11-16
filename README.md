@@ -2,7 +2,7 @@
 
 <div align="center">
 
-https://img.shields.io/badge/Python-3.8+-blue.svg
+![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
 https://img.shields.io/badge/SQLAlchemy-2.0+-red.svg  
 https://img.shields.io/badge/SQLite-3.0+-green.svg
 https://img.shields.io/badge/Alembic-Migrations-orange.svg
